@@ -104,6 +104,10 @@ python iiet.py -u http://sqllabs.com/Less-2 -i url -pn id -pv 2 -c Dumb -m data 
 
 ## 更新日志
 
+### 版本更新(2024/10/28)
+
+增加banner
+
 ### 版本更新(2024/10/8)
 
 修复数据库表中文字符乱码的问题
